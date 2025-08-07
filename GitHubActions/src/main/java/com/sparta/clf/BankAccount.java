@@ -4,7 +4,7 @@ package com.sparta.clf;
 public class BankAccount {
     private double balance;
 
-    // constructor
+    // my constructor
     public BankAccount(double initialBalance) {
         balance = initialBalance;
     }
